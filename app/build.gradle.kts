@@ -55,7 +55,6 @@ dependencies {
     implementation(libs.glide)
 
     // Room
-    // Room
     implementation(libs.room.ktx)
     implementation(libs.room.runtime)
     annotationProcessor(libs.room.compiler)
